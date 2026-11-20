@@ -28,7 +28,7 @@ on it is harder than it would be in a patient.
 
 Folder: `tuned_recombination/`
 
-The tuned image is still a weighted subtraction of the raw HE and LE images, with my weight; I take the gain, the noise filtering and the border processing from the manufacturer’s image. I keep the manufacturer's image as it is, with its edges, walls,
+The tuned image is a weighted subtraction of the raw HE and LE images, with my weight; I take the gain, the noise filtering and the border processing from the manufacturer’s image. I keep the manufacturer's image as it is, with its edges, walls,
 mask and grey scale, and change only the weight on the background:
 
     R_tuned = R - IFFT{ c(f) FFT(LE log image) },   c(f) = alpha(f) [ w_t(f) - w_eff(f) ]
