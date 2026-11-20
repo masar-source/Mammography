@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+._*
+gate_model/output/
+*.aux
+*.log
+!gate_model/phantom/packing.log
+!gate_model/phantom_L2/packing.log
+*.out
+*.toc

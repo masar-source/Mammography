@@ -1,0 +1,48 @@
+{
+ "envelope": {
+  "R_mm": 120.0,
+  "x_flat_mm": 0.0,
+  "z_mm": [
+   0.0,
+   53.5
+  ],
+  "exact_volume_ml": 1210.1414901627882,
+  "triangles": 696,
+  "closed": true,
+  "oriented": true,
+  "mesh_volume_ml": 1210.074973498854
+ },
+ "filling": {
+  "R_mm": 112.0,
+  "x_flat_mm": 8.0,
+  "z_mm": [
+   4.0,
+   47.5
+  ],
+  "exact_volume_ml": 779.241343400025,
+  "triangles": 640,
+  "closed": true,
+  "oriented": true,
+  "mesh_volume_ml": 779.1928488257554
+ },
+ "plate": {
+  "R_mm": 111.5,
+  "x_flat_mm": 8.05,
+  "z_mm": [
+   24.75,
+   26.75
+  ],
+  "exact_volume_ml": 35.46988675491864,
+  "triangles": 640,
+  "closed": true,
+  "oriented": true,
+  "mesh_volume_ml": 35.467680389342384
+ },
+ "plate_centre_z_mm": 25.75,
+ "plate_thickness_mm": 2.0,
+ "front_face_x_world_mm": 7.2388059701492535,
+ "tessellation": {
+  "max_sagitta_mm": 0.005
+ },
+ "model": "L2"
+}

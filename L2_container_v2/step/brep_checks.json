@@ -1,0 +1,91 @@
+{
+ "container": {
+  "valid": true,
+  "n_solids": 1,
+  "volume_ml": 324.1460416893731,
+  "bbox": [
+   -20.0,
+   126.696,
+   -136.75,
+   136.75,
+   0.0,
+   53.5
+  ]
+ },
+ "lid": {
+  "valid": true,
+  "n_solids": 1,
+  "volume_ml": 80.87813420326735,
+  "bbox": [
+   -27.0,
+   -21.0,
+   -136.75,
+   136.75,
+   0.0,
+   53.5
+  ]
+ },
+ "gasket": {
+  "valid": true,
+  "n_solids": 1,
+  "volume_ml": 4.209156002934215,
+  "bbox": [
+   -21.0,
+   -20.0,
+   -136.75,
+   136.75,
+   0.0,
+   53.5
+  ]
+ },
+ "plate": {
+  "valid": true,
+  "n_solids": 1,
+  "volume_ml": 89.31524406644134,
+  "bbox": [
+   -20.8,
+   124.733,
+   -127.872,
+   127.872,
+   24.25,
+   27.25
+  ]
+ },
+ "bracket": {
+  "valid": true,
+  "n_solids": 1,
+  "volume_ml": 23.45869083795833,
+  "bbox": [
+   -20.0,
+   0.0,
+   -85.0,
+   85.0,
+   -16.0,
+   0.0
+  ]
+ },
+ "filling_volume_ml": 1095.9345830660734,
+ "filling_in_extension_ml": 186.96402724859234,
+ "crosscheck_implicit_vs_step": {
+  "container": {
+   "points": 4164,
+   "mismatches": 0
+  },
+  "lid": {
+   "points": 5909,
+   "mismatches": 0
+  },
+  "gasket": {
+   "points": 5225,
+   "mismatches": 0
+  },
+  "plate": {
+   "points": 5900,
+   "mismatches": 0
+  },
+  "bracket": {
+   "points": 5724,
+   "mismatches": 0
+  }
+ }
+}

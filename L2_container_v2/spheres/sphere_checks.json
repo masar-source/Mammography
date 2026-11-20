@@ -1,0 +1,86 @@
+{
+ "15.88": {
+  "file": "L2v2_sphere_D15.88mm.stl",
+  "triangles": 20480,
+  "watertight": true,
+  "outward_normals": 1.0,
+  "volume_mm3": 2096.766715519358,
+  "volume_error_pct": -6.136659957967083e-07,
+  "vertex_diameter_mm": [
+   15.882863004818462,
+   15.882864228194117
+  ],
+  "min_face_centre_diameter_mm": 15.878339703346219,
+  "size_kB": 1000.08203125
+ },
+ "12.70": {
+  "file": "L2v2_sphere_D12.70mm.stl",
+  "triangles": 20480,
+  "watertight": true,
+  "outward_normals": 1.0,
+  "volume_mm3": 1072.5308389515722,
+  "volume_error_pct": 7.640994503788079e-07,
+  "vertex_diameter_mm": [
+   12.702289563513473,
+   12.702290724753118
+  ],
+  "min_face_centre_diameter_mm": 12.698672091792352,
+  "size_kB": 1000.08203125
+ },
+ "9.52": {
+  "file": "L2v2_sphere_D9.52mm.stl",
+  "triangles": 20480,
+  "watertight": true,
+  "outward_normals": 1.0,
+  "volume_mm3": 451.7617610372187,
+  "volume_error_pct": 4.956828281166281e-08,
+  "vertex_diameter_mm": [
+   9.52171622942746,
+   9.521717179290471
+  ],
+  "min_face_centre_diameter_mm": 9.51900430934771,
+  "size_kB": 1000.08203125
+ },
+ "6.35": {
+  "file": "L2v2_sphere_D6.35mm.stl",
+  "triangles": 20480,
+  "watertight": true,
+  "outward_normals": 1.0,
+  "volume_mm3": 134.0663509499078,
+  "volume_error_pct": -2.159108825061651e-06,
+  "vertex_diameter_mm": [
+   6.351144781756736,
+   6.351145362376559
+  ],
+  "min_face_centre_diameter_mm": 6.349336045896176,
+  "size_kB": 1000.08203125
+ },
+ "3.18": {
+  "file": "L2v2_sphere_D3.18mm.stl",
+  "triangles": 20480,
+  "watertight": true,
+  "outward_normals": 1.0,
+  "volume_mm3": 16.83759196556169,
+  "volume_error_pct": -3.3273087618468367e-07,
+  "vertex_diameter_mm": [
+   3.1805732995258467,
+   3.180573602087461
+  ],
+  "min_face_centre_diameter_mm": 3.179667508802632,
+  "size_kB": 1000.08203125
+ },
+ "1.58": {
+  "file": "L2v2_sphere_D1.58mm.stl",
+  "triangles": 20480,
+  "watertight": true,
+  "outward_normals": 1.0,
+  "volume_mm3": 2.0652369126398376,
+  "volume_error_pct": -1.0235067793296082e-06,
+  "vertex_diameter_mm": [
+   1.5802848584903217,
+   1.5802849939957966
+  ],
+  "min_face_centre_diameter_mm": 1.5798347824639032,
+  "size_kB": 1000.08203125
+ }
+}

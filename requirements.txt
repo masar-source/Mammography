@@ -1,0 +1,16 @@
+# tuned recombination and method document
+numpy
+scipy
+pydicom
+matplotlib
+pandas
+openpyxl
+pillow
+# L2 v2 container (STEP and STL files)
+# cadquery
+# GATE 10 model
+# opengate==10.1.1
+# spekpy
+# uproot
+# scikit-image
+# plotly          (3D previews only)

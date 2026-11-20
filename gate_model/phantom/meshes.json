@@ -1,0 +1,56 @@
+{
+ "envelope": {
+  "valid": true,
+  "volume_ml": 1492.5415310901358,
+  "bbox": [
+   -20.0,
+   126.75,
+   -126.748,
+   126.748,
+   0.0,
+   53.5
+  ],
+  "triangles": 118304,
+  "closed": true,
+  "oriented": true,
+  "mesh_volume_ml": 1492.4848830567116
+ },
+ "filling": {
+  "valid": true,
+  "volume_ml": 1184.25155819557,
+  "bbox": [
+   -20.0,
+   125.172,
+   -125.172,
+   125.172,
+   4.0,
+   47.5
+  ],
+  "triangles": 124820,
+  "closed": true,
+  "oriented": true,
+  "mesh_volume_ml": 1184.2048202359697
+ },
+ "plate": {
+  "valid": true,
+  "volume_ml": 88.28364039642057,
+  "bbox": [
+   -19.95,
+   124.772,
+   -124.672,
+   124.672,
+   24.25,
+   27.25
+  ],
+  "triangles": 976,
+  "closed": true,
+  "oriented": true,
+  "mesh_volume_ml": 88.28173150629604
+ },
+ "plate_centre_z_mm": 25.75,
+ "plate_thickness_mm": 3.0,
+ "tessellation": {
+  "tolerance_mm": 0.005,
+  "angular_tolerance_rad": 0.1
+ }
+}

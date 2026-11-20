@@ -1,0 +1,7 @@
+diameter_mm,stl,step,volume_per_size_ml,mass_per_size_g_at_1.046_g_per_cm3,quantity_nominal,quantity_with_10pct_spare,step_volume_check_pct
+15.88,L2v2_sphere_D15.88mm.stl,L2v2_sphere_D15.88mm.step,111,117,54,59,+0.0000
+12.70,L2v2_sphere_D12.70mm.stl,L2v2_sphere_D12.70mm.step,111,117,104,115,+0.0000
+9.52,L2v2_sphere_D9.52mm.stl,L2v2_sphere_D9.52mm.step,111,117,247,272,+0.0000
+6.35,L2v2_sphere_D6.35mm.stl,L2v2_sphere_D6.35mm.step,111,117,832,915,+0.0000
+3.18,L2v2_sphere_D3.18mm.stl,L2v2_sphere_D3.18mm.step,111,117,6618,7280,-0.0000
+1.58,L2v2_sphere_D1.58mm.stl,L2v2_sphere_D1.58mm.step,111,117,53951,59346,+0.0000

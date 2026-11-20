@@ -1,0 +1,28 @@
+{
+ "measured_set": "july28high",
+ "extra_filtration_al_mm": 0.1357421875,
+ "extra_filtration_fitted": true,
+ "paddle": {
+  "material": "G4_POLYCARBONATE",
+  "mm": 2.0,
+  "paddle_id": 14
+ },
+ "source_to_entrance_mm": 585.0,
+ "beams": {
+  "LE": {
+   "kvp": 28.0,
+   "hvl_mm_al": 0.49563250589804386,
+   "esak_dicom_mGy": 7.597706561641,
+   "esak_model_mGy": 7.59680513034352,
+   "ratio": 0.9998813548154082
+  },
+  "HE": {
+   "kvp": 49.0,
+   "hvl_mm_al": 3.039775177443004,
+   "esak_dicom_mGy": 0.77067316551808,
+   "esak_model_mGy": 0.7041416557025154,
+   "ratio": 0.9136709142184298
+  }
+ },
+ "he_check": "ok"
+}

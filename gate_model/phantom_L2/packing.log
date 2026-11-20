@@ -1,0 +1,171 @@
+phantom L2 -> gate_model/phantom_L2
+free space 743.8 ml (Monte Carlo)
+target counts per size: {15.88: 36, 12.7: 71, 9.52: 167, 6.35: 564, 3.18: 4491, 1.58: 36615}
+  s 0.550:  25 iterations, worst overlap 0.0446 mm, 41944 spheres (total 25, 2 s)
+  s 0.570:  15 iterations, worst overlap 0.0483 mm, 41944 spheres (total 40, 2 s)
+  s 0.590:  26 iterations, worst overlap 0.0490 mm, 41944 spheres (total 66, 4 s)
+  s 0.610:  32 iterations, worst overlap 0.0488 mm, 41944 spheres (total 98, 5 s)
+  s 0.630:  23 iterations, worst overlap 0.0484 mm, 41944 spheres (total 121, 6 s)
+  s 0.650:  38 iterations, worst overlap 0.0467 mm, 41944 spheres (total 159, 8 s)
+  s 0.670:  39 iterations, worst overlap 0.0470 mm, 41944 spheres (total 198, 10 s)
+  s 0.690:  41 iterations, worst overlap 0.0472 mm, 41944 spheres (total 239, 12 s)
+  s 0.710:  50 iterations, worst overlap 0.0480 mm, 41944 spheres (total 289, 15 s)
+  s 0.730:  46 iterations, worst overlap 0.0482 mm, 41944 spheres (total 335, 17 s)
+  s 0.750:  61 iterations, worst overlap 0.0462 mm, 41944 spheres (total 396, 20 s)
+  s 0.770:  94 iterations, worst overlap 0.0492 mm, 41944 spheres (total 490, 25 s)
+  s 0.790: 107 iterations, worst overlap 0.0497 mm, 41944 spheres (total 597, 31 s)
+  s 0.810: 156 iterations, worst overlap 0.0494 mm, 41944 spheres (total 753, 39 s)
+  s 0.830: 171 iterations, worst overlap 0.0490 mm, 41944 spheres (total 924, 48 s)
+  s 0.850: 174 iterations, worst overlap 0.0491 mm, 41944 spheres (total 1098, 58 s)
+  s 0.870: 200 iterations, worst overlap 0.1317 mm, 41944 spheres (total 1298, 69 s)
+  s 0.870: 112 iterations, worst overlap 0.0494 mm, 41944 spheres (total 1410, 75 s)
+  s 0.890: 200 iterations, worst overlap 0.1252 mm, 41944 spheres (total 1610, 86 s)
+  s 0.890:  71 iterations, worst overlap 0.0492 mm, 41944 spheres (total 1681, 90 s)
+  s 0.910: 200 iterations, worst overlap 0.3066 mm, 41944 spheres (total 1881, 101 s)
+  s 0.910: 159 iterations, worst overlap 0.0499 mm, 41944 spheres (total 2040, 112 s)
+  s 0.920: 200 iterations, worst overlap 0.1126 mm, 41944 spheres (total 2240, 123 s)
+  s 0.920: 117 iterations, worst overlap 0.0499 mm, 41944 spheres (total 2357, 129 s)
+  s 0.930: 200 iterations, worst overlap 0.1763 mm, 41944 spheres (total 2557, 141 s)
+  s 0.930:  89 iterations, worst overlap 0.0496 mm, 41944 spheres (total 2646, 146 s)
+  s 0.940: 200 iterations, worst overlap 0.2057 mm, 41944 spheres (total 2846, 157 s)
+  s 0.940: 200 iterations, worst overlap 0.0861 mm, 41944 spheres (total 3046, 169 s)
+  s 0.940: 113 iterations, worst overlap 0.0498 mm, 41944 spheres (total 3159, 175 s)
+  s 0.950: 200 iterations, worst overlap 0.2243 mm, 41944 spheres (total 3359, 187 s)
+  s 0.950: 200 iterations, worst overlap 0.0922 mm, 41944 spheres (total 3559, 199 s)
+  s 0.950: 170 iterations, worst overlap 0.0500 mm, 41944 spheres (total 3729, 209 s)
+  s 0.960: 200 iterations, worst overlap 0.2849 mm, 41944 spheres (total 3929, 220 s)
+  s 0.960: 200 iterations, worst overlap 0.1406 mm, 41944 spheres (total 4129, 231 s)
+  s 0.960: 200 iterations, worst overlap 0.0986 mm, 41944 spheres (total 4329, 242 s)
+  s 0.960: 200 iterations, worst overlap 0.0765 mm, 41944 spheres (total 4529, 254 s)
+  s 0.960: 146 iterations, worst overlap 0.0498 mm, 41944 spheres (total 4675, 262 s)
+  s 0.970: 200 iterations, worst overlap 0.3924 mm, 41944 spheres (total 4875, 273 s)
+  s 0.970: 200 iterations, worst overlap 0.2830 mm, 41944 spheres (total 5075, 284 s)
+  s 0.970: 200 iterations, worst overlap 0.2190 mm, 41944 spheres (total 5275, 296 s)
+  s 0.970: 200 iterations, worst overlap 0.1639 mm, 41944 spheres (total 5475, 307 s)
+  s 0.970: 200 iterations, worst overlap 0.1148 mm, 41944 spheres (total 5675, 319 s)
+  s 0.970: 200 iterations, worst overlap 0.0788 mm, 41944 spheres (total 5875, 330 s)
+  s 0.970: 200 iterations, worst overlap 0.0517 mm, 41944 spheres (total 6075, 342 s)
+  s 0.970:  16 iterations, worst overlap 0.0499 mm, 41944 spheres (total 6091, 343 s)
+  s 0.980: 200 iterations, worst overlap 0.6110 mm, 41944 spheres (total 6291, 356 s)
+  s 0.980: 200 iterations, worst overlap 0.4133 mm, 41944 spheres (total 6491, 369 s)
+  s 0.980: 200 iterations, worst overlap 0.2604 mm, 41944 spheres (total 6691, 380 s)
+  s 0.980: 200 iterations, worst overlap 0.1371 mm, 41944 spheres (total 6891, 393 s)
+  s 0.980: 200 iterations, worst overlap 0.0873 mm, 41944 spheres (total 7091, 405 s)
+  s 0.980: 200 iterations, worst overlap 0.0787 mm, 41944 spheres (total 7291, 417 s)
+  s 0.980: 200 iterations, worst overlap 0.0683 mm, 41944 spheres (total 7491, 429 s)
+  s 0.980: 179 iterations, worst overlap 0.0500 mm, 41944 spheres (total 7670, 439 s)
+  s 0.990: 200 iterations, worst overlap 0.7648 mm, 41944 spheres (total 7870, 453 s)
+  s 0.990: 200 iterations, worst overlap 0.4545 mm, 41944 spheres (total 8070, 465 s)
+  s 0.990: 200 iterations, worst overlap 0.2818 mm, 41944 spheres (total 8270, 478 s)
+  s 0.990: 200 iterations, worst overlap 0.1920 mm, 41944 spheres (total 8470, 490 s)
+  s 0.990: 200 iterations, worst overlap 0.1393 mm, 41944 spheres (total 8670, 502 s)
+  s 0.990: 200 iterations, worst overlap 0.1059 mm, 41944 spheres (total 8870, 514 s)
+  s 0.990: 200 iterations, worst overlap 0.0853 mm, 41944 spheres (total 9070, 526 s)
+  s 0.990: 200 iterations, worst overlap 0.0741 mm, 41944 spheres (total 9270, 538 s)
+  s 0.990: 200 iterations, worst overlap 0.0623 mm, 41944 spheres (total 9470, 550 s)
+  s 0.990: 183 iterations, worst overlap 0.0493 mm, 41944 spheres (total 9653, 562 s)
+  s 1.000: 200 iterations, worst overlap 1.0416 mm, 41944 spheres (total 9853, 574 s)
+  s 1.000: 200 iterations, worst overlap 0.8125 mm, 41944 spheres (total 10053, 586 s)
+  s 1.000: 200 iterations, worst overlap 0.6288 mm, 41944 spheres (total 10253, 598 s)
+  s 1.000: 200 iterations, worst overlap 0.4519 mm, 41944 spheres (total 10453, 610 s)
+  s 1.000: 200 iterations, worst overlap 0.3709 mm, 41944 spheres (total 10653, 622 s)
+  s 1.000: 200 iterations, worst overlap 0.2950 mm, 41944 spheres (total 10853, 634 s)
+  s 1.000: 200 iterations, worst overlap 0.2424 mm, 41944 spheres (total 11053, 645 s)
+  s 1.000: 200 iterations, worst overlap 0.2002 mm, 41944 spheres (total 11253, 658 s)
+  s 1.000: 200 iterations, worst overlap 0.1720 mm, 41944 spheres (total 11453, 670 s)
+  s 1.000: 200 iterations, worst overlap 0.1423 mm, 41944 spheres (total 11653, 682 s)
+  s 1.000: 200 iterations, worst overlap 0.1207 mm, 41944 spheres (total 11853, 694 s)
+  s 1.000: 200 iterations, worst overlap 0.1029 mm, 41944 spheres (total 12053, 705 s)
+  s 1.000: 200 iterations, worst overlap 0.0868 mm, 41944 spheres (total 12253, 717 s)
+  s 1.000: 200 iterations, worst overlap 0.0742 mm, 41944 spheres (total 12453, 729 s)
+  s 1.000: 200 iterations, worst overlap 0.0641 mm, 41944 spheres (total 12653, 741 s)
+  s 1.000: 200 iterations, worst overlap 0.0554 mm, 41944 spheres (total 12853, 753 s)
+  s 1.000: 200 iterations, worst overlap 0.0476 mm, 41944 spheres (total 13053, 765 s)
+  s 1.000: 200 iterations, worst overlap 0.0409 mm, 41944 spheres (total 13253, 777 s)
+  s 1.000: 200 iterations, worst overlap 0.0383 mm, 41944 spheres (total 13453, 789 s)
+  s 1.000: 200 iterations, worst overlap 0.0333 mm, 41944 spheres (total 13653, 800 s)
+  s 1.000: 200 iterations, worst overlap 0.0315 mm, 41944 spheres (total 13853, 812 s)
+  s 1.000: 200 iterations, worst overlap 0.0292 mm, 41944 spheres (total 14053, 824 s)
+  s 1.000: 200 iterations, worst overlap 0.0267 mm, 41944 spheres (total 14253, 836 s)
+  s 1.000: 200 iterations, worst overlap 0.0242 mm, 41944 spheres (total 14453, 848 s)
+  s 1.000: 200 iterations, worst overlap 0.0240 mm, 41944 spheres (total 14653, 860 s)
+  s 1.000: 200 iterations, worst overlap 0.0213 mm, 41944 spheres (total 14853, 872 s)
+  s 1.000: 200 iterations, worst overlap 0.0199 mm, 41944 spheres (total 15053, 884 s)
+  s 1.000: 200 iterations, worst overlap 0.0186 mm, 41944 spheres (total 15253, 896 s)
+  s 1.000: 200 iterations, worst overlap 0.0173 mm, 41944 spheres (total 15453, 908 s)
+  s 1.000: 200 iterations, worst overlap 0.0161 mm, 41944 spheres (total 15653, 920 s)
+  s 1.000: 200 iterations, worst overlap 0.0150 mm, 41944 spheres (total 15853, 932 s)
+  s 1.000: 200 iterations, worst overlap 0.0139 mm, 41944 spheres (total 16053, 944 s)
+  s 1.000: 200 iterations, worst overlap 0.0129 mm, 41944 spheres (total 16253, 957 s)
+  s 1.000: 200 iterations, worst overlap 0.0120 mm, 41944 spheres (total 16453, 970 s)
+  s 1.000: 200 iterations, worst overlap 0.0111 mm, 41944 spheres (total 16653, 983 s)
+  s 1.000: 200 iterations, worst overlap 0.0103 mm, 41944 spheres (total 16853, 995 s)
+  s 1.000: 200 iterations, worst overlap 0.0096 mm, 41944 spheres (total 17053, 1007 s)
+  s 1.000: 200 iterations, worst overlap 0.0089 mm, 41944 spheres (total 17253, 1019 s)
+  s 1.000: 200 iterations, worst overlap 0.0082 mm, 41944 spheres (total 17453, 1031 s)
+  s 1.000: 200 iterations, worst overlap 0.0076 mm, 41944 spheres (total 17653, 1043 s)
+  s 1.000: 200 iterations, worst overlap 0.0071 mm, 41944 spheres (total 17853, 1055 s)
+  s 1.000: 200 iterations, worst overlap 0.0066 mm, 41944 spheres (total 18053, 1067 s)
+  s 1.000: 200 iterations, worst overlap 0.0061 mm, 41944 spheres (total 18253, 1079 s)
+  s 1.000: 200 iterations, worst overlap 0.0056 mm, 41944 spheres (total 18453, 1091 s)
+  s 1.000: 200 iterations, worst overlap 0.0052 mm, 41944 spheres (total 18653, 1103 s)
+  s 1.000: 200 iterations, worst overlap 0.0048 mm, 41944 spheres (total 18853, 1115 s)
+  s 1.000: 200 iterations, worst overlap 0.0044 mm, 41944 spheres (total 19053, 1127 s)
+  s 1.000: 200 iterations, worst overlap 0.0041 mm, 41944 spheres (total 19253, 1138 s)
+  s 1.000: 200 iterations, worst overlap 0.0038 mm, 41944 spheres (total 19453, 1150 s)
+  s 1.000: 200 iterations, worst overlap 0.0035 mm, 41944 spheres (total 19653, 1162 s)
+  s 1.000: 200 iterations, worst overlap 0.0032 mm, 41944 spheres (total 19853, 1174 s)
+  s 1.000: 200 iterations, worst overlap 0.0030 mm, 41944 spheres (total 20053, 1185 s)
+  s 1.000: 200 iterations, worst overlap 0.0028 mm, 41944 spheres (total 20253, 1197 s)
+  s 1.000: 200 iterations, worst overlap 0.0026 mm, 41944 spheres (total 20453, 1209 s)
+  s 1.000: 200 iterations, worst overlap 0.0024 mm, 41944 spheres (total 20653, 1221 s)
+  s 1.000: 200 iterations, worst overlap 0.0022 mm, 41944 spheres (total 20853, 1233 s)
+  s 1.000: 200 iterations, worst overlap 0.0020 mm, 41944 spheres (total 21053, 1245 s)
+  s 1.000: 200 iterations, worst overlap 0.0019 mm, 41944 spheres (total 21253, 1257 s)
+  s 1.000: 200 iterations, worst overlap 0.0017 mm, 41944 spheres (total 21453, 1269 s)
+  s 1.000: 200 iterations, worst overlap 0.0016 mm, 41944 spheres (total 21653, 1281 s)
+  s 1.000: 200 iterations, worst overlap 0.0015 mm, 41944 spheres (total 21853, 1293 s)
+  s 1.000: 200 iterations, worst overlap 0.0014 mm, 41944 spheres (total 22053, 1305 s)
+  s 1.000: 200 iterations, worst overlap 0.0013 mm, 41944 spheres (total 22253, 1316 s)
+  s 1.000: 200 iterations, worst overlap 0.0012 mm, 41944 spheres (total 22453, 1328 s)
+  s 1.000: 200 iterations, worst overlap 0.0011 mm, 41944 spheres (total 22653, 1340 s)
+  s 1.000: 200 iterations, worst overlap 0.0010 mm, 41944 spheres (total 22853, 1352 s)
+  s 1.000:  18 iterations, worst overlap 0.0010 mm, 41944 spheres (total 22871, 1353 s)
+{
+ "free_volume_ml": 743.7799824,
+ "target_fraction": 0.61,
+ "achieved_fraction": 0.6102750518672043,
+ "counts": {
+  "15.88": 36,
+  "12.7": 71,
+  "9.52": 167,
+  "6.35": 564,
+  "3.18": 4490,
+  "1.58": 36615
+ },
+ "removed_after_check": 1,
+ "final_scale": 1.0,
+ "removed_jam_relief": {
+  "spheres": 0,
+  "volume_fraction": 0.0
+ },
+ "remaining_wall_violations": 0,
+ "remaining_overlaps": 0,
+ "max_overlap_mm": 0.0,
+ "wall_clearance_mm": {
+  "min": 0.019978476317873195,
+  "median": 2.5182593585888036,
+  "touching_within_0p05mm": 8798
+ },
+ "phantom": "L2",
+ "wall_mm": 0.02,
+ "gap_mm": 0.001,
+ "seed": 1,
+ "iterations": 22871,
+ "seconds": 1354.8307840824127,
+ "mesh_check": {
+  "spheres_checked": 10853,
+  "min_clearance_mm": 0.015018846973585243,
+  "crossing_a_facet": 0
+ }
+}

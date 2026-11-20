@@ -1,0 +1,37 @@
+{
+ "free_volume_ml": 1095.8906425544608,
+ "target_fraction": 0.61,
+ "achieved_fraction": 0.6099870032003446,
+ "counts": {
+  "15.88": 53,
+  "12.7": 104,
+  "9.52": 247,
+  "6.35": 831,
+  "3.18": 6616,
+  "1.58": 53948
+ },
+ "removed_after_check": 1,
+ "final_scale": 1.0,
+ "removed_jam_relief": {
+  "spheres": 0,
+  "volume_fraction": 0.0
+ },
+ "remaining_wall_violations": 0,
+ "remaining_overlaps": 0,
+ "max_overlap_mm": 0.0,
+ "wall_clearance_mm": {
+  "min": 0.019971921764255773,
+  "median": 2.619913934888756,
+  "touching_within_0p05mm": 12770
+ },
+ "wall_mm": 0.02,
+ "gap_mm": 0.001,
+ "seed": 1,
+ "iterations": 20037,
+ "seconds": 1483.4271540641785,
+ "mesh_check": {
+  "spheres_checked": 15760,
+  "min_clearance_mm": 0.014631156560871439,
+  "crossing_a_facet": 0
+ }
+}
