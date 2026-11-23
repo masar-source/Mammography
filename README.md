@@ -23,3 +23,11 @@ give usable numbers.
 ## Requirements
 
 Python 3 with numpy, scipy and the packages listed in each folder. The simulations need opengate (GATE 10.1).
+
+## Licence
+
+The code, models and documents in this repository are under the MIT licence (`LICENSE`). Two parts keep their own
+licences: the six Radboud breast images in `radiation-protection/anatomy/` and the label images made from them
+(CC BY 4.0; Pacheco, Michielsen and Sechopoulos, see the attribution in `radiation-protection/README.md`), and the
+three.js library and the Inter font in the 3D viewer (MIT and SIL Open Font License, see
+`radiation-protection/Third_party_notices.txt`).
