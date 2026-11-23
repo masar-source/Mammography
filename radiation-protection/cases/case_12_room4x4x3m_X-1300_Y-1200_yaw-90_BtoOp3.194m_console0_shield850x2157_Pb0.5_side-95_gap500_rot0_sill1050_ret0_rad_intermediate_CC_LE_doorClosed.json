@@ -1,0 +1,719 @@
+{
+  "room": {
+    "inside_mm": [
+      4000,
+      4000,
+      3000
+    ],
+    "detector_chestwall_mm": [
+      -450,
+      -300,
+      1100
+    ],
+    "door_centre_x_mm": 805.5555555555555,
+    "door_width_mm": 1000,
+    "door_height_mm": 2100,
+    "door_wood_mm": 40,
+    "door_pb_mm": 0.3,
+    "concrete_slab_mm": 150,
+    "board_density_g_cm3": 0.8,
+    "timber_density_g_cm3": 0.6,
+    "service_opening_yz_mm": [
+      459.0998043052838,
+      2100
+    ],
+    "service_opening_size_mm": [
+      90,
+      90
+    ],
+    "breast_reference_local_mm": [
+      55,
+      0,
+      43.75
+    ],
+    "torso": true
+  },
+  "screen": {
+    "width_mm": 1600,
+    "height_mm": 2100,
+    "sill_mm": 1050,
+    "offset_mm": 450,
+    "window_material": "G4_Pb",
+    "window_thickness_factor": 1,
+    "horizontal_joint_gap_mm": 0,
+    "floor_gap_mm": 0,
+    "window_model": "attenuation-equivalent lead sheet at each beam quality"
+  },
+  "layouts": {
+    "open": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0,
+      "reference_only": true
+    },
+    "near": {
+      "distance_m": 2,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.3,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0
+    },
+    "middle": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.3,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0
+    },
+    "far": {
+      "distance_m": 3,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.3,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0
+    },
+    "return": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.3,
+      "return_mm": 360,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0
+    },
+    "rotated": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 20,
+      "screen_pb_mm": 0.3,
+      "return_mm": 360,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0
+    },
+    "screen_only": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.5,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0
+    },
+    "board_only": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.3,
+      "return_mm": 0,
+      "wall_board_mm": 36,
+      "wall_pb_mm": 0
+    },
+    "wall_lining": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.3,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0.2
+    },
+    "unlined_opening": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.3,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0,
+      "open_service_duct": true
+    },
+    "reinforced": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.5,
+      "return_mm": 360,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0.2
+    },
+    "siemens_2m": {
+      "distance_m": 2,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.5,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0,
+      "screen": {
+        "width_mm": 854,
+        "height_mm": 2157,
+        "lateral_offset_mm": 0
+      }
+    },
+    "siemens_2p5m": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.5,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0,
+      "screen": {
+        "width_mm": 854,
+        "height_mm": 2157,
+        "lateral_offset_mm": 0
+      }
+    },
+    "siemens_3m": {
+      "distance_m": 3,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.5,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0,
+      "screen": {
+        "width_mm": 854,
+        "height_mm": 2157,
+        "lateral_offset_mm": 0
+      }
+    },
+    "siemens_offset": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.5,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0,
+      "screen": {
+        "width_mm": 854,
+        "height_mm": 2157,
+        "lateral_offset_mm": 220
+      }
+    },
+    "custom_siemens_offset": {
+      "distance_m": 3.1939488505888725,
+      "azimuth_deg": 39.74618626868497,
+      "screen_yaw_deg": -39.74618626868497,
+      "screen_pb_mm": 0.5,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0,
+      "screen": {
+        "width_mm": 850,
+        "height_mm": 2157,
+        "lateral_offset_mm": -95,
+        "sill_mm": 1050,
+        "offset_mm": 500
+      },
+      "screen_heading_deg": 0,
+      "console_heading_deg": 0,
+      "scanner_pose": {
+        "pivot_xy_mm": [
+          332.63750000000005,
+          -300
+        ],
+        "translation_xy_mm": [
+          -1300,
+          -1200
+        ],
+        "yaw_deg": -90
+      },
+      "survey_geometry": {
+        "case_id": "case_12",
+        "outer_reach_mm": 650,
+        "common_ring_radius_mm": 500,
+        "supplementary_ring_radius_mm": 1000,
+        "outer_reach_cell_size_mm": [
+          65,
+          65,
+          65
+        ],
+        "outer_reach_centres_room_mm": [
+          [
+            1488.414923,
+            1919.809508,
+            500
+          ],
+          [
+            1488.414923,
+            1919.809508,
+            1200
+          ],
+          [
+            1488.414923,
+            1919.809508,
+            1700
+          ]
+        ],
+        "ring_cell_size_mm": [
+          100,
+          100,
+          100
+        ],
+        "breast_reference_room_mm": [
+          -967.3625,
+          -772.3625,
+          1143.75
+        ],
+        "azimuth_frame": "Scanner frame; zero toward torso.",
+        "baseline_check": "Full cubes checked against inner walls and shield panels. Equipment and patient clearance requires a transport geometry check.",
+        "rings": [
+          {
+            "radius_mm": 500,
+            "role": "common",
+            "stations": [
+              {
+                "angle_deg": 0,
+                "centre_room_mm": [
+                  -967.3625,
+                  -272.3625,
+                  1143.75
+                ],
+                "available": true,
+                "exclusion_reasons": []
+              },
+              {
+                "angle_deg": 45,
+                "centre_room_mm": [
+                  -613.809109,
+                  -418.809109,
+                  1143.75
+                ],
+                "available": true,
+                "exclusion_reasons": []
+              },
+              {
+                "angle_deg": 90,
+                "centre_room_mm": [
+                  -467.3625,
+                  -772.3625,
+                  1143.75
+                ],
+                "available": true,
+                "exclusion_reasons": []
+              },
+              {
+                "angle_deg": 135,
+                "centre_room_mm": [
+                  -613.809109,
+                  -1125.915891,
+                  1143.75
+                ],
+                "available": true,
+                "exclusion_reasons": []
+              },
+              {
+                "angle_deg": 180,
+                "centre_room_mm": [
+                  -967.3625,
+                  -1272.3625,
+                  1143.75
+                ],
+                "available": true,
+                "exclusion_reasons": []
+              },
+              {
+                "angle_deg": 225,
+                "centre_room_mm": [
+                  -1320.915891,
+                  -1125.915891,
+                  1143.75
+                ],
+                "available": true,
+                "exclusion_reasons": []
+              },
+              {
+                "angle_deg": 270,
+                "centre_room_mm": [
+                  -1467.3625,
+                  -772.3625,
+                  1143.75
+                ],
+                "available": true,
+                "exclusion_reasons": []
+              },
+              {
+                "angle_deg": 315,
+                "centre_room_mm": [
+                  -1320.915891,
+                  -418.809109,
+                  1143.75
+                ],
+                "available": true,
+                "exclusion_reasons": []
+              }
+            ]
+          },
+          {
+            "radius_mm": 1000,
+            "role": "supplementary",
+            "stations": [
+              {
+                "angle_deg": 0,
+                "centre_room_mm": [
+                  -967.3625,
+                  227.6375,
+                  1143.75
+                ],
+                "available": true,
+                "exclusion_reasons": []
+              },
+              {
+                "angle_deg": 45,
+                "centre_room_mm": [
+                  -260.255719,
+                  -65.255719,
+                  1143.75
+                ],
+                "available": true,
+                "exclusion_reasons": []
+              },
+              {
+                "angle_deg": 90,
+                "centre_room_mm": [
+                  32.6375,
+                  -772.3625,
+                  1143.75
+                ],
+                "available": true,
+                "exclusion_reasons": []
+              },
+              {
+                "angle_deg": 135,
+                "centre_room_mm": [
+                  -260.255719,
+                  -1479.469281,
+                  1143.75
+                ],
+                "available": true,
+                "exclusion_reasons": []
+              },
+              {
+                "angle_deg": 180,
+                "centre_room_mm": [
+                  -967.3625,
+                  -1772.3625,
+                  1143.75
+                ],
+                "available": true,
+                "exclusion_reasons": []
+              },
+              {
+                "angle_deg": 225,
+                "centre_room_mm": [
+                  -1674.469281,
+                  -1479.469281,
+                  1143.75
+                ],
+                "available": true,
+                "exclusion_reasons": []
+              },
+              {
+                "angle_deg": 270,
+                "centre_room_mm": [
+                  -1967.3625,
+                  -772.3625,
+                  1143.75
+                ],
+                "available": false,
+                "exclusion_reasons": [
+                  "room_boundary"
+                ]
+              },
+              {
+                "angle_deg": 315,
+                "centre_room_mm": [
+                  -1674.469281,
+                  -65.255719,
+                  1143.75
+                ],
+                "available": true,
+                "exclusion_reasons": []
+              }
+            ]
+          }
+        ],
+        "staff": [
+          {
+            "role": "operator",
+            "height_mm": 500,
+            "centre_room_mm": [
+              1488.414923,
+              1269.809508,
+              500
+            ],
+            "exclusion_reasons": []
+          },
+          {
+            "role": "operator",
+            "height_mm": 1200,
+            "centre_room_mm": [
+              1488.414923,
+              1269.809508,
+              1200
+            ],
+            "exclusion_reasons": []
+          },
+          {
+            "role": "operator",
+            "height_mm": 1700,
+            "centre_room_mm": [
+              1488.414923,
+              1269.809508,
+              1700
+            ],
+            "exclusion_reasons": []
+          },
+          {
+            "role": "observer",
+            "height_mm": 500,
+            "centre_room_mm": [
+              1488.414923,
+              1709.809508,
+              500
+            ],
+            "exclusion_reasons": []
+          },
+          {
+            "role": "observer",
+            "height_mm": 1200,
+            "centre_room_mm": [
+              1488.414923,
+              1709.809508,
+              1200
+            ],
+            "exclusion_reasons": []
+          },
+          {
+            "role": "observer",
+            "height_mm": 1700,
+            "centre_room_mm": [
+              1488.414923,
+              1709.809508,
+              1700
+            ],
+            "exclusion_reasons": []
+          },
+          {
+            "role": "left_reach",
+            "height_mm": 500,
+            "centre_room_mm": [
+              1488.414923,
+              1049.809508,
+              500
+            ],
+            "exclusion_reasons": []
+          },
+          {
+            "role": "left_reach",
+            "height_mm": 1200,
+            "centre_room_mm": [
+              1488.414923,
+              1049.809508,
+              1200
+            ],
+            "exclusion_reasons": []
+          },
+          {
+            "role": "left_reach",
+            "height_mm": 1700,
+            "centre_room_mm": [
+              1488.414923,
+              1049.809508,
+              1700
+            ],
+            "exclusion_reasons": []
+          },
+          {
+            "role": "outer_reach",
+            "height_mm": 500,
+            "centre_room_mm": [
+              1488.414923,
+              1919.809508,
+              500
+            ],
+            "exclusion_reasons": []
+          },
+          {
+            "role": "outer_reach",
+            "height_mm": 1200,
+            "centre_room_mm": [
+              1488.414923,
+              1919.809508,
+              1200
+            ],
+            "exclusion_reasons": []
+          },
+          {
+            "role": "outer_reach",
+            "height_mm": 1700,
+            "centre_room_mm": [
+              1488.414923,
+              1919.809508,
+              1700
+            ],
+            "exclusion_reasons": []
+          }
+        ],
+        "door_stations": [
+          {
+            "name": "door_leaf",
+            "size_mm": 100,
+            "centre_room_mm": [
+              805.5555555555555,
+              -2350,
+              1200
+            ]
+          },
+          {
+            "name": "door_jamb",
+            "size_mm": 70,
+            "centre_room_mm": [
+              1305.5555555555557,
+              -2160,
+              1200
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "planning": {
+    "occupancy": {
+      "booth": 1,
+      "office": 1,
+      "corridor": 1,
+      "floor": 1,
+      "ceiling": 1
+    },
+    "goal_uGy_week": {
+      "booth": 10,
+      "office": 5,
+      "corridor": 5,
+      "floor": 5,
+      "ceiling": 5
+    },
+    "max_relative_se": 0.2,
+    "min_independent_batches": 8,
+    "leakage_model": null,
+    "basis_documented": false,
+    "source_scale": {
+      "LE": 1,
+      "HE": 1
+    },
+    "coverage_reviewed": false
+  },
+  "detector_extension": {
+    "backing_al_mm": 3,
+    "backstop_pb_mm": 0.5,
+    "backstop_size_xy_mm": [
+      295,
+      330
+    ],
+    "housing_centre_x_mm": 145.5,
+    "grid_slope_groups": 64,
+    "image_receptor": {
+      "width_mm": 359.2,
+      "depth_mm": 346.5,
+      "height_mm": 45,
+      "chest_wall_setback_mm": 5
+    }
+  },
+  "views_deg": {
+    "CC": 0,
+    "MLO_R": 45,
+    "MLO_L": -45
+  },
+  "workloads_mAs_per_week": {
+    "illustrative_mixed": {
+      "LE": {
+        "CC": 18200,
+        "MLO_R": 9100,
+        "MLO_L": 9100
+      },
+      "HE": {
+        "CC": 800,
+        "MLO_R": 400,
+        "MLO_L": 400
+      }
+    },
+    "illustrative_CEM_CC": {
+      "LE": {
+        "CC": 4000
+      },
+      "HE": {
+        "CC": 800
+      }
+    }
+  },
+  "revelation_viewer": {
+    "version": 8,
+    "study_preview": {
+      "case_id": "case_12",
+      "acquisition": "LE",
+      "base_angle_override_deg": null,
+      "dbt_index": 12,
+      "door_open": false,
+      "no_shield": false,
+      "show_cells": true
+    },
+    "room_angles_deg": {
+      "zero_axis": "+Y",
+      "positive": "counterclockwise_from_above",
+      "scanner": -90,
+      "console": 0,
+      "shield": 0
+    },
+    "base_layout": "siemens_offset",
+    "selected_layout": "custom_siemens_offset",
+    "projection": "CC",
+    "phantom": "rad_intermediate",
+    "edits": {
+      "distance": 3.1939488505888725,
+      "shieldAngle": 0,
+      "consoleAngle": 0,
+      "side": -95,
+      "gap": 500,
+      "azimuth": 39.74618626868497,
+      "scannerX": -1300,
+      "scannerY": -1200,
+      "scannerYaw": -90
+    },
+    "shield_edits": {
+      "width_mm": 850,
+      "height_mm": 2157,
+      "sill_mm": 1050,
+      "return_mm": 0
+    },
+    "display": {
+      "exterior": true,
+      "guides": true,
+      "torso": false,
+      "detail": true,
+      "shell": "cut",
+      "move": "linked",
+      "layoutMotion": "distance",
+      "show_beam_path": false,
+      "torso_visibility_explicit": true
+    },
+    "camera": "Plan",
+    "patient_projection": {
+      "source_compression_view": "CC",
+      "simulated_view": "CC",
+      "arm_angle_deg": 0,
+      "anatomy_model": "native_cc_compression"
+    }
+  }
+}

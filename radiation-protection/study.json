@@ -1,0 +1,274 @@
+{
+  "room": {
+    "inside_mm": [
+      6400,
+      5200,
+      3000
+    ],
+    "detector_chestwall_mm": [
+      -450,
+      -300,
+      1100
+    ],
+    "door_centre_x_mm": 1450,
+    "door_width_mm": 1000,
+    "door_height_mm": 2100,
+    "door_wood_mm": 40,
+    "door_pb_mm": 0.3,
+    "concrete_slab_mm": 150,
+    "board_density_g_cm3": 0.8,
+    "timber_density_g_cm3": 0.6,
+    "service_opening_yz_mm": [
+      600,
+      2100
+    ],
+    "service_opening_size_mm": [
+      90,
+      90
+    ],
+    "breast_reference_local_mm": [
+      55,
+      0,
+      43.75
+    ],
+    "torso": true
+  },
+  "screen": {
+    "width_mm": 1600,
+    "height_mm": 2100,
+    "sill_mm": 1050,
+    "offset_mm": 450,
+    "window_material": "G4_Pb",
+    "window_thickness_factor": 1.0,
+    "horizontal_joint_gap_mm": 0,
+    "floor_gap_mm": 0,
+    "window_model": "attenuation-equivalent lead sheet at each beam quality"
+  },
+  "layouts": {
+    "open": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0,
+      "reference_only": true
+    },
+    "near": {
+      "distance_m": 2.0,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.3,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0
+    },
+    "middle": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.3,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0
+    },
+    "far": {
+      "distance_m": 3.0,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.3,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0
+    },
+    "return": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.3,
+      "return_mm": 360,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0
+    },
+    "rotated": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 20,
+      "screen_pb_mm": 0.3,
+      "return_mm": 360,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0
+    },
+    "screen_only": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.5,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0
+    },
+    "board_only": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.3,
+      "return_mm": 0,
+      "wall_board_mm": 36,
+      "wall_pb_mm": 0
+    },
+    "wall_lining": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.3,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0.2
+    },
+    "unlined_opening": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.3,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0,
+      "open_service_duct": true
+    },
+    "reinforced": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.5,
+      "return_mm": 360,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0.2
+    },
+    "siemens_2m": {
+      "distance_m": 2.0,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.5,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0,
+      "screen": {
+        "width_mm": 854,
+        "height_mm": 2157,
+        "lateral_offset_mm": 0
+      }
+    },
+    "siemens_2p5m": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.5,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0,
+      "screen": {
+        "width_mm": 854,
+        "height_mm": 2157,
+        "lateral_offset_mm": 0
+      }
+    },
+    "siemens_3m": {
+      "distance_m": 3.0,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.5,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0,
+      "screen": {
+        "width_mm": 854,
+        "height_mm": 2157,
+        "lateral_offset_mm": 0
+      }
+    },
+    "siemens_offset": {
+      "distance_m": 2.5,
+      "azimuth_deg": 35,
+      "screen_yaw_deg": 0,
+      "screen_pb_mm": 0.5,
+      "return_mm": 0,
+      "wall_board_mm": 24,
+      "wall_pb_mm": 0,
+      "screen": {
+        "width_mm": 854,
+        "height_mm": 2157,
+        "lateral_offset_mm": 220
+      }
+    }
+  },
+  "planning": {
+    "occupancy": {
+      "booth": 1.0,
+      "office": 1.0,
+      "corridor": 1.0,
+      "floor": 1.0,
+      "ceiling": 1.0
+    },
+    "goal_uGy_week": {
+      "booth": 10,
+      "office": 5,
+      "corridor": 5,
+      "floor": 5,
+      "ceiling": 5
+    },
+    "max_relative_se": 0.2,
+    "min_independent_batches": 8,
+    "leakage_model": null,
+    "basis_documented": false,
+    "source_scale": {
+      "LE": 1.0,
+      "HE": 1.0
+    },
+    "coverage_reviewed": false
+  },
+  "detector_extension": {
+    "backing_al_mm": 3.0,
+    "backstop_pb_mm": 0.5,
+    "backstop_size_xy_mm": [
+      295,
+      330
+    ],
+    "housing_centre_x_mm": 145.5,
+    "grid_slope_groups": 64,
+    "image_receptor": {
+      "width_mm": 359.2,
+      "depth_mm": 346.5,
+      "height_mm": 45.0,
+      "chest_wall_setback_mm": 5.0
+    }
+  },
+  "views_deg": {
+    "CC": 0,
+    "MLO_R": 45,
+    "MLO_L": -45
+  },
+  "workloads_mAs_per_week": {
+    "illustrative_mixed": {
+      "LE": {
+        "CC": 18200,
+        "MLO_R": 9100,
+        "MLO_L": 9100
+      },
+      "HE": {
+        "CC": 800,
+        "MLO_R": 400,
+        "MLO_L": 400
+      }
+    },
+    "illustrative_CEM_CC": {
+      "LE": {
+        "CC": 4000
+      },
+      "HE": {
+        "CC": 800
+      }
+    }
+  }
+}

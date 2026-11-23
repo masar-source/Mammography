@@ -1,0 +1,345 @@
+{
+  "doi": "10.5281/zenodo.18617629",
+  "version": "1.0",
+  "archive": "compressed.zip",
+  "archive_md5": "666b566ee9751550bab2163889b2e8ac",
+  "cohort_n": 821,
+  "matched_cohort_n": 79,
+  "matched_nominal_thickness_mm": [
+    52,
+    54
+  ],
+  "selection": "Within the 52 to 54 mm inclusive group, closest to 0%, 20%, 40% and 100% glandular volume. Two extra cases are the minimum and maximum across the entire release. Fractions exclude skin and air.",
+  "cases": {
+    "rad_fatty": {
+      "source_dimensions_ijk": [
+        525,
+        228,
+        676
+      ],
+      "source_space": "left-posterior-superior",
+      "source_origin": "(-5.048882007598877,21.974899291992188,-23.985000610351562)",
+      "source_directions": "(0.27300000190734863,0,0) (0,0.27300000190734863,0) (0,0,0.27300000190734863)",
+      "source_tissue_labels_voxels": [
+        40782913,
+        35148582,
+        2828221,
+        2157484
+      ],
+      "crop_bounds_ijk_half_open": [
+        [
+          18,
+          507
+        ],
+        [
+          18,
+          209
+        ],
+        [
+          19,
+          657
+        ]
+      ],
+      "gate_dimensions_xyz": [
+        489,
+        638,
+        191
+      ],
+      "gate_spacing_mm": [
+        0.27300000190734863,
+        0.27300000190734863,
+        0.27300000190734863
+      ],
+      "tissue_extent_xyz_mm": [
+        133.49700093269348,
+        174.17400121688843,
+        52.14300036430359
+      ],
+      "total_tissue_cm3": 816.5889564152812,
+      "glandular_volume_fraction": 0.07447232985883515,
+      "source_id": "KBCT410079R",
+      "archive_member": "compressed/KBCT410079R_compressed_52_0.nrrd",
+      "source_nrrd": "original/KBCT410079R_compressed_52_0.nrrd",
+      "source_sha256": "affe32076492cbe22ac064479c5a46155a07dae8f732bc4e4da02749993ae66f",
+      "gate_image": "gate/rad_fatty.nrrd",
+      "gate_sha256": "4b5d360c60320f444575a07c8579c099d0915fe6a05b0bceb49324ffb538b2fd",
+      "nominal_thickness_mm": 52,
+      "cohort_rank": 2
+    },
+    "rad_intermediate": {
+      "source_dimensions_ijk": [
+        402,
+        231,
+        605
+      ],
+      "source_space": "left-posterior-superior",
+      "source_origin": "(-5.0463581085205078,22.032400131225586,-17.723499298095703)",
+      "source_directions": "(0.27300000190734863,0,0) (0,0.27300000190734863,0) (0,0,0.27300000190734863)",
+      "source_tissue_labels_voxels": [
+        31406332,
+        18777871,
+        4706791,
+        1290516
+      ],
+      "crop_bounds_ijk_half_open": [
+        [
+          18,
+          383
+        ],
+        [
+          18,
+          212
+        ],
+        [
+          19,
+          586
+        ]
+      ],
+      "gate_dimensions_xyz": [
+        365,
+        567,
+        194
+      ],
+      "gate_spacing_mm": [
+        0.27300000190734863,
+        0.27300000190734863,
+        0.27300000190734863
+      ],
+      "tissue_extent_xyz_mm": [
+        99.64500069618225,
+        154.79100108146667,
+        52.962000370025635
+      ],
+      "total_tissue_cm3": 504.08611340280777,
+      "glandular_volume_fraction": 0.20041978888178166,
+      "source_id": "KBCT110136R",
+      "archive_member": "compressed/KBCT110136R_compressed_53_0.nrrd",
+      "source_nrrd": "original/KBCT110136R_compressed_53_0.nrrd",
+      "source_sha256": "3b44c20a585de30f67971c65b7a2d543028e1338a0a9ddf5a11bfc7bfea31e96",
+      "gate_image": "gate/rad_intermediate.nrrd",
+      "gate_sha256": "3e0451cbed47abd5911e1e1b20e2e8c3a7d43f27d2e4e62374c7dff69751d7a0",
+      "nominal_thickness_mm": 53,
+      "cohort_rank": 140
+    },
+    "rad_dense": {
+      "source_dimensions_ijk": [
+        376,
+        235,
+        780
+      ],
+      "source_space": "left-posterior-superior",
+      "source_origin": "(-5.055974006652832,21.969200134277344,-42.63330078125)",
+      "source_directions": "(0.27300000190734863,0,0) (0,0.27300000190734863,0) (0,0,0.27300000190734863)",
+      "source_tissue_labels_voxels": [
+        45388204,
+        13251679,
+        9129255,
+        1151662
+      ],
+      "crop_bounds_ijk_half_open": [
+        [
+          18,
+          357
+        ],
+        [
+          18,
+          216
+        ],
+        [
+          19,
+          761
+        ]
+      ],
+      "gate_dimensions_xyz": [
+        339,
+        742,
+        198
+      ],
+      "gate_spacing_mm": [
+        0.27300000190734863,
+        0.27300000190734863,
+        0.27300000190734863
+      ],
+      "tissue_extent_xyz_mm": [
+        92.54700064659119,
+        202.56600141525269,
+        54.05400037765503
+      ],
+      "total_tissue_cm3": 478.80402134420433,
+      "glandular_volume_fraction": 0.40790321798008966,
+      "source_id": "KBCT110288R",
+      "archive_member": "compressed/KBCT110288R_compressed_54_0.nrrd",
+      "source_nrrd": "original/KBCT110288R_compressed_54_0.nrrd",
+      "source_sha256": "dd76392f138bc24c38c3e6dc17eb2f6819bdae3bbc5d5fa417563fc14bf8e78d",
+      "gate_image": "gate/rad_dense.nrrd",
+      "gate_sha256": "c648af9604ea81938e9d0d24956e1c3ec163bd9d6833cca1a38d4a8e663d62b2",
+      "nominal_thickness_mm": 54,
+      "cohort_rank": 600
+    },
+    "rad_highest": {
+      "source_dimensions_ijk": [
+        396,
+        231,
+        447
+      ],
+      "source_space": "left-posterior-superior",
+      "source_origin": "(-5.0425810813903809,22.189699172973633,-19.227800369262695)",
+      "source_directions": "(0.27300000190734863,0,0) (0,0.27300000190734863,0) (0,0,0.27300000190734863)",
+      "source_tissue_labels_voxels": [
+        24608720,
+        6274527,
+        8991753,
+        1014772
+      ],
+      "crop_bounds_ijk_half_open": [
+        [
+          18,
+          377
+        ],
+        [
+          18,
+          212
+        ],
+        [
+          19,
+          427
+        ]
+      ],
+      "gate_dimensions_xyz": [
+        359,
+        408,
+        194
+      ],
+      "gate_spacing_mm": [
+        0.27300000190734863,
+        0.27300000190734863,
+        0.27300000190734863
+      ],
+      "tissue_extent_xyz_mm": [
+        98.00700068473816,
+        111.38400077819824,
+        52.962000370025635
+      ],
+      "total_tissue_cm3": 331.2610801338747,
+      "glandular_volume_fraction": 0.5889943719098563,
+      "source_id": "KBCT310033L",
+      "archive_member": "compressed/KBCT310033L_compressed_53_0.nrrd",
+      "source_nrrd": "original/KBCT310033L_compressed_53_0.nrrd",
+      "source_sha256": "4ee665171b32d0a8b38a038e7c8f984bb54969a29e2eabc6bc57bc9a0d81b9cb",
+      "gate_image": "gate/rad_highest.nrrd",
+      "gate_sha256": "e773b0bf5caa9461c8c5df75c5e304003d89c266436c218dc23a8ca62b181530",
+      "nominal_thickness_mm": 53,
+      "cohort_rank": 791
+    },
+    "rad_cohort_min": {
+      "source_dimensions_ijk": [
+        537,
+        268,
+        895
+      ],
+      "source_space": "left-posterior-superior",
+      "source_origin": "(-5.0646309852600098,21.952299118041992,-42.815399169921875)",
+      "source_directions": "(0.27300000190734863,0,0) (0,0.27300000190734863,0) (0,0,0.27300000190734863)",
+      "source_tissue_labels_voxels": [
+        68126028,
+        54514853,
+        3675755,
+        2488184
+      ],
+      "crop_bounds_ijk_half_open": [
+        [
+          18,
+          518
+        ],
+        [
+          18,
+          249
+        ],
+        [
+          22,
+          876
+        ]
+      ],
+      "gate_dimensions_xyz": [
+        500,
+        854,
+        231
+      ],
+      "gate_spacing_mm": [
+        0.27300000190734863,
+        0.27300000190734863,
+        0.27300000190734863
+      ],
+      "tissue_extent_xyz_mm": [
+        136.50000095367432,
+        233.14200162887573,
+        63.063000440597534
+      ],
+      "total_tissue_cm3": 1234.596030965242,
+      "glandular_volume_fraction": 0.06316749603303681,
+      "source_id": "KBCT310116R",
+      "archive_member": "compressed/KBCT310116R_compressed_63_0.nrrd",
+      "source_nrrd": "original/KBCT310116R_compressed_63_0.nrrd",
+      "source_sha256": "d7ef7e45305fc19c7373775986ea10a9b91251f05012099fd12c67c914d62b35",
+      "gate_image": "gate/rad_cohort_min.nrrd",
+      "gate_sha256": "93f01f8009b3a3fc18b542ea511e6b1780382b8bdd70090944bf7bf651e1a80f",
+      "nominal_thickness_mm": 63,
+      "cohort_rank": 1
+    },
+    "rad_cohort_max": {
+      "source_dimensions_ijk": [
+        284,
+        184,
+        658
+      ],
+      "source_space": "left-posterior-superior",
+      "source_origin": "(-5.0430779457092285,22.14579963684082,-32.666599273681641)",
+      "source_directions": "(0.27300000190734863,0,0) (0,0.27300000190734863,0) (0,0,0.27300000190734863)",
+      "source_tissue_labels_voxels": [
+        23123070,
+        1899567,
+        8795688,
+        566123
+      ],
+      "crop_bounds_ijk_half_open": [
+        [
+          18,
+          266
+        ],
+        [
+          18,
+          165
+        ],
+        [
+          19,
+          639
+        ]
+      ],
+      "gate_dimensions_xyz": [
+        248,
+        620,
+        147
+      ],
+      "gate_spacing_mm": [
+        0.27300000190734863,
+        0.27300000190734863,
+        0.27300000190734863
+      ],
+      "tissue_extent_xyz_mm": [
+        67.70400047302246,
+        169.26000118255615,
+        40.13100028038025
+      ],
+      "total_tissue_cm3": 229.1286975851348,
+      "glandular_volume_fraction": 0.822391611981201,
+      "source_id": "KBCT010152L",
+      "archive_member": "compressed/KBCT010152L_compressed_40_0.nrrd",
+      "source_nrrd": "original/KBCT010152L_compressed_40_0.nrrd",
+      "source_sha256": "600f52627b5a06617d4db83cbd23a9e63524853e7f820801416b727aa5d1e8cb",
+      "gate_image": "gate/rad_cohort_max.nrrd",
+      "gate_sha256": "84c85a448a9fa2ea0740ad62d20483c79948653b679d3925d54838701f2ba0ec",
+      "nominal_thickness_mm": 40,
+      "cohort_rank": 821
+    }
+  }
+}

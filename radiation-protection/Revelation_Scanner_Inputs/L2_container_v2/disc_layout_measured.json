@@ -1,0 +1,301 @@
+{
+ "note": "Iodine-disc centres measured from the July 2026 L2 images (NORMALMAS series template). x = distance from the detector chest-wall edge (outer chest-wall face of the current container), y = along the chest wall from the centre of curvature; object plane at mid-height (magnification 1.072). Diameters nominal (2/3/4/5/7 mm array, two 9 mm).",
+ "discs": [
+  {
+   "kind": "array",
+   "row": 0,
+   "col": 0,
+   "diam": 2.0,
+   "x": 21.37,
+   "y": -45.01
+  },
+  {
+   "kind": "array",
+   "row": 0,
+   "col": 1,
+   "diam": 3.0,
+   "x": 34.45,
+   "y": -45.26
+  },
+  {
+   "kind": "array",
+   "row": 0,
+   "col": 2,
+   "diam": 4.0,
+   "x": 47.42,
+   "y": -45.51
+  },
+  {
+   "kind": "array",
+   "row": 0,
+   "col": 3,
+   "diam": 5.0,
+   "x": 60.42,
+   "y": -45.75
+  },
+  {
+   "kind": "array",
+   "row": 0,
+   "col": 4,
+   "diam": 7.0,
+   "x": 76.8,
+   "y": -46.0
+  },
+  {
+   "kind": "array",
+   "row": 1,
+   "col": 0,
+   "diam": 2.0,
+   "x": 21.49,
+   "y": -30.06
+  },
+  {
+   "kind": "array",
+   "row": 1,
+   "col": 1,
+   "diam": 3.0,
+   "x": 34.57,
+   "y": -30.3
+  },
+  {
+   "kind": "array",
+   "row": 1,
+   "col": 2,
+   "diam": 4.0,
+   "x": 47.54,
+   "y": -30.55
+  },
+  {
+   "kind": "array",
+   "row": 1,
+   "col": 3,
+   "diam": 5.0,
+   "x": 60.54,
+   "y": -30.8
+  },
+  {
+   "kind": "array",
+   "row": 1,
+   "col": 4,
+   "diam": 7.0,
+   "x": 76.92,
+   "y": -31.05
+  },
+  {
+   "kind": "array",
+   "row": 2,
+   "col": 0,
+   "diam": 2.0,
+   "x": 21.61,
+   "y": -14.83
+  },
+  {
+   "kind": "array",
+   "row": 2,
+   "col": 1,
+   "diam": 3.0,
+   "x": 34.69,
+   "y": -15.08
+  },
+  {
+   "kind": "array",
+   "row": 2,
+   "col": 2,
+   "diam": 4.0,
+   "x": 47.66,
+   "y": -15.33
+  },
+  {
+   "kind": "array",
+   "row": 2,
+   "col": 3,
+   "diam": 5.0,
+   "x": 60.65,
+   "y": -15.58
+  },
+  {
+   "kind": "array",
+   "row": 2,
+   "col": 4,
+   "diam": 7.0,
+   "x": 77.03,
+   "y": -15.83
+  },
+  {
+   "kind": "array",
+   "row": 3,
+   "col": 0,
+   "diam": 2.0,
+   "x": 21.72,
+   "y": 0.18
+  },
+  {
+   "kind": "array",
+   "row": 3,
+   "col": 1,
+   "diam": 3.0,
+   "x": 34.81,
+   "y": -0.07
+  },
+  {
+   "kind": "array",
+   "row": 3,
+   "col": 2,
+   "diam": 4.0,
+   "x": 47.77,
+   "y": -0.32
+  },
+  {
+   "kind": "array",
+   "row": 3,
+   "col": 3,
+   "diam": 5.0,
+   "x": 60.77,
+   "y": -0.57
+  },
+  {
+   "kind": "array",
+   "row": 3,
+   "col": 4,
+   "diam": 7.0,
+   "x": 77.15,
+   "y": -0.82
+  },
+  {
+   "kind": "array",
+   "row": 4,
+   "col": 0,
+   "diam": 2.0,
+   "x": 21.84,
+   "y": 15.5
+  },
+  {
+   "kind": "array",
+   "row": 4,
+   "col": 1,
+   "diam": 3.0,
+   "x": 34.92,
+   "y": 15.25
+  },
+  {
+   "kind": "array",
+   "row": 4,
+   "col": 2,
+   "diam": 4.0,
+   "x": 47.89,
+   "y": 15.0
+  },
+  {
+   "kind": "array",
+   "row": 4,
+   "col": 3,
+   "diam": 5.0,
+   "x": 60.89,
+   "y": 14.76
+  },
+  {
+   "kind": "array",
+   "row": 4,
+   "col": 4,
+   "diam": 7.0,
+   "x": 77.27,
+   "y": 14.51
+  },
+  {
+   "kind": "array",
+   "row": 5,
+   "col": 0,
+   "diam": 2.0,
+   "x": 21.96,
+   "y": 29.98
+  },
+  {
+   "kind": "array",
+   "row": 5,
+   "col": 1,
+   "diam": 3.0,
+   "x": 35.04,
+   "y": 29.73
+  },
+  {
+   "kind": "array",
+   "row": 5,
+   "col": 2,
+   "diam": 4.0,
+   "x": 48.01,
+   "y": 29.48
+  },
+  {
+   "kind": "array",
+   "row": 5,
+   "col": 3,
+   "diam": 5.0,
+   "x": 61.01,
+   "y": 29.23
+  },
+  {
+   "kind": "array",
+   "row": 5,
+   "col": 4,
+   "diam": 7.0,
+   "x": 77.38,
+   "y": 28.98
+  },
+  {
+   "kind": "array",
+   "row": 6,
+   "col": 0,
+   "diam": 2.0,
+   "x": 22.07,
+   "y": 45.08
+  },
+  {
+   "kind": "array",
+   "row": 6,
+   "col": 1,
+   "diam": 3.0,
+   "x": 35.16,
+   "y": 44.83
+  },
+  {
+   "kind": "array",
+   "row": 6,
+   "col": 2,
+   "diam": 4.0,
+   "x": 48.13,
+   "y": 44.58
+  },
+  {
+   "kind": "array",
+   "row": 6,
+   "col": 3,
+   "diam": 5.0,
+   "x": 61.12,
+   "y": 44.33
+  },
+  {
+   "kind": "array",
+   "row": 6,
+   "col": 4,
+   "diam": 7.0,
+   "x": 77.5,
+   "y": 44.08
+  },
+  {
+   "kind": "large_top",
+   "row": -1,
+   "col": -1,
+   "diam": 9.0,
+   "x": 29.58,
+   "y": -70.1
+  },
+  {
+   "kind": "large_bottom",
+   "row": -1,
+   "col": -1,
+   "diam": 9.0,
+   "x": 29.89,
+   "y": 69.93
+  }
+ ]
+}

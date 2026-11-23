@@ -1,0 +1,694 @@
+{
+ "set": "july28high",
+ "n_pairs": 12,
+ "warnings": [],
+ "unit": "10159",
+ "detector_id": "LV2-33695",
+ "note": "values per pair; each pair is treated on its own (config.set_measured selects one)",
+ "exposures": [
+  {
+   "id": "HIGHMAS_28KV2_00",
+   "LE": {
+    "kvp": 28.0,
+    "mAs": 200.64,
+    "esak_mGy": 7.597706561641,
+    "filter": [
+     "RHODIUM",
+     0.05,
+     0.05
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 46.9,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260728"
+   },
+   "HE": {
+    "kvp": 49.0,
+    "mAs": 41.39,
+    "esak_mGy": 0.77067316551808,
+    "filter": [
+     "TITANIUM",
+     1.0,
+     1.0
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 46.9,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260728"
+   },
+   "he_open_stored": 5784.0,
+   "max_stored": {
+    "LE": 7500.0,
+    "HE": 7500.0
+   },
+   "mirrored": true
+  },
+  {
+   "id": "HIGHMAS_28KV2_01",
+   "LE": {
+    "kvp": 28.0,
+    "mAs": 198.51,
+    "esak_mGy": 7.5170490906667,
+    "filter": [
+     "RHODIUM",
+     0.05,
+     0.05
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 19.4,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260728"
+   },
+   "HE": {
+    "kvp": 49.0,
+    "mAs": 42.2,
+    "esak_mGy": 0.78575519654175,
+    "filter": [
+     "TITANIUM",
+     1.0,
+     1.0
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 19.4,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260728"
+   },
+   "he_open_stored": 5914.0,
+   "max_stored": {
+    "LE": 7500.0,
+    "HE": 7500.0
+   },
+   "mirrored": true
+  },
+  {
+   "id": "HIGHMAS_28KV2_02",
+   "LE": {
+    "kvp": 28.0,
+    "mAs": 201.38,
+    "esak_mGy": 7.6257284060171,
+    "filter": [
+     "RHODIUM",
+     0.05,
+     0.05
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 42.2,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260728"
+   },
+   "HE": {
+    "kvp": 49.0,
+    "mAs": 41.62,
+    "esak_mGy": 0.77495571753715,
+    "filter": [
+     "TITANIUM",
+     1.0,
+     1.0
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 42.2,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260728"
+   },
+   "he_open_stored": 5784.0,
+   "max_stored": {
+    "LE": 7500.0,
+    "HE": 7500.0
+   },
+   "mirrored": true
+  },
+  {
+   "id": "HIGHMAS_28KV2_03",
+   "LE": {
+    "kvp": 28.0,
+    "mAs": 221.41,
+    "esak_mGy": 8.3842115720342,
+    "filter": [
+     "RHODIUM",
+     0.05,
+     0.05
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 54.2,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260728"
+   },
+   "HE": {
+    "kvp": 49.0,
+    "mAs": 46.62,
+    "esak_mGy": 0.86805467447337,
+    "filter": [
+     "TITANIUM",
+     1.0,
+     1.0
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 54.2,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260728"
+   },
+   "he_open_stored": 6572.0,
+   "max_stored": {
+    "LE": 7500.0,
+    "HE": 7500.0
+   },
+   "mirrored": true
+  },
+  {
+   "id": "HIGHMAS_28KV2_04",
+   "LE": {
+    "kvp": 28.0,
+    "mAs": 202.84,
+    "esak_mGy": 7.6810147476239,
+    "filter": [
+     "RHODIUM",
+     0.05,
+     0.05
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 52.7,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260728"
+   },
+   "HE": {
+    "kvp": 49.0,
+    "mAs": 41.71,
+    "esak_mGy": 0.776631498762,
+    "filter": [
+     "TITANIUM",
+     1.0,
+     1.0
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 52.7,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260728"
+   },
+   "he_open_stored": 5779.0,
+   "max_stored": {
+    "LE": 7500.0,
+    "HE": 7500.0
+   },
+   "mirrored": true
+  },
+  {
+   "id": "HIGHMAS_28KV2_05",
+   "LE": {
+    "kvp": 28.0,
+    "mAs": 201.37,
+    "esak_mGy": 7.6253497324444,
+    "filter": [
+     "RHODIUM",
+     0.05,
+     0.05
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 50.9,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260728"
+   },
+   "HE": {
+    "kvp": 49.0,
+    "mAs": 42.48,
+    "esak_mGy": 0.79096873813018,
+    "filter": [
+     "TITANIUM",
+     1.0,
+     1.0
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 50.9,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260728"
+   },
+   "he_open_stored": 5916.0,
+   "max_stored": {
+    "LE": 7500.0,
+    "HE": 7500.0
+   },
+   "mirrored": true
+  },
+  {
+   "id": "HIGHMAS_28KV_06",
+   "LE": {
+    "kvp": 28.0,
+    "mAs": 217.93,
+    "esak_mGy": 8.2524331687521,
+    "filter": [
+     "RHODIUM",
+     0.05,
+     0.05
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 52.0,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260721"
+   },
+   "HE": {
+    "kvp": 49.0,
+    "mAs": 46.55,
+    "esak_mGy": 0.86675128907627,
+    "filter": [
+     "TITANIUM",
+     1.0,
+     1.0
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 52.4,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260721"
+   },
+   "he_open_stored": 6557.0,
+   "max_stored": {
+    "LE": 7500.0,
+    "HE": 7500.0
+   },
+   "mirrored": true
+  },
+  {
+   "id": "HIGHMAS_28KV_07",
+   "LE": {
+    "kvp": 28.0,
+    "mAs": 200.64,
+    "esak_mGy": 7.597706561641,
+    "filter": [
+     "RHODIUM",
+     0.05,
+     0.05
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 48.8,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260721"
+   },
+   "HE": {
+    "kvp": 49.0,
+    "mAs": 41.77,
+    "esak_mGy": 0.77774868624523,
+    "filter": [
+     "TITANIUM",
+     1.0,
+     1.0
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 48.8,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260721"
+   },
+   "he_open_stored": 5785.0,
+   "max_stored": {
+    "LE": 7500.0,
+    "HE": 7500.0
+   },
+   "mirrored": true
+  },
+  {
+   "id": "HIGHMAS_28KV_08",
+   "LE": {
+    "kvp": 28.0,
+    "mAs": 212.92,
+    "esak_mGy": 8.0627177088547,
+    "filter": [
+     "RHODIUM",
+     0.05,
+     0.05
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 46.6,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260721"
+   },
+   "HE": {
+    "kvp": 49.0,
+    "mAs": 45.97,
+    "esak_mGy": 0.85595181007166,
+    "filter": [
+     "TITANIUM",
+     1.0,
+     1.0
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 46.2,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260721"
+   },
+   "he_open_stored": 6453.0,
+   "max_stored": {
+    "LE": 7500.0,
+    "HE": 7500.0
+   },
+   "mirrored": true
+  },
+  {
+   "id": "HIGHMAS_28KV_09",
+   "LE": {
+    "kvp": 28.0,
+    "mAs": 201.37,
+    "esak_mGy": 7.5993468537368,
+    "filter": [
+     "RHODIUM",
+     0.05,
+     0.05
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 586.0,
+    "thickness_mm": 53.0,
+    "force_N": 48.4,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260721"
+   },
+   "HE": {
+    "kvp": 49.0,
+    "mAs": 41.87,
+    "esak_mGy": 0.77961066538396,
+    "filter": [
+     "TITANIUM",
+     1.0,
+     1.0
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 48.4,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260721"
+   },
+   "he_open_stored": 5794.0,
+   "max_stored": {
+    "LE": 7500.0,
+    "HE": 7500.0
+   },
+   "mirrored": true
+  },
+  {
+   "id": "HIGHMAS_28KV_10",
+   "LE": {
+    "kvp": 28.0,
+    "mAs": 196.41,
+    "esak_mGy": 7.4375276404103,
+    "filter": [
+     "RHODIUM",
+     0.05,
+     0.05
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 50.9,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260721"
+   },
+   "HE": {
+    "kvp": 49.0,
+    "mAs": 42.47,
+    "esak_mGy": 0.79078254021631,
+    "filter": [
+     "TITANIUM",
+     1.0,
+     1.0
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 50.9,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260721"
+   },
+   "he_open_stored": 5909.0,
+   "max_stored": {
+    "LE": 7500.0,
+    "HE": 7500.0
+   },
+   "mirrored": true
+  },
+  {
+   "id": "HIGHMAS_28KV_11",
+   "LE": {
+    "kvp": 28.0,
+    "mAs": 200.64,
+    "esak_mGy": 7.597706561641,
+    "filter": [
+     "RHODIUM",
+     0.05,
+     0.05
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 53.9,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260721"
+   },
+   "HE": {
+    "kvp": 49.0,
+    "mAs": 41.86,
+    "esak_mGy": 0.77942446747009,
+    "filter": [
+     "TITANIUM",
+     1.0,
+     1.0
+    ],
+    "anode": "TUNGSTEN",
+    "sid_mm": 656.0,
+    "source_to_entrance_mm": 585.0,
+    "thickness_mm": 54.0,
+    "force_N": 53.9,
+    "pixel_mm": 0.085,
+    "rows": 3518,
+    "cols": 2800,
+    "detector_id": "LV2-33695",
+    "device_serial": "10159",
+    "laterality": "R",
+    "view": "CC",
+    "magnification": 1.0266040688576,
+    "date": "20260721"
+   },
+   "he_open_stored": 5790.0,
+   "max_stored": {
+    "LE": 7500.0,
+    "HE": 7500.0
+   },
+   "mirrored": true
+  }
+ ]
+}

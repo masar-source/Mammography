@@ -1,0 +1,17 @@
+phantom,source_id,mode,beam,view,layout,histories,seed,opengate_version,beam_monitor_photon_steps,modelled_glandular_volume_percent,registered_tissue_thickness_mm,paddle_bottom_mm
+rad_cohort_max,KBCT010152L,segmented,HE,CC,siemens_offset,10000,1730461144,10.1.0,724,82.239161,40.131,57.141
+rad_cohort_max,KBCT010152L,segmented,LE,CC,siemens_offset,10000,721308637,10.1.0,683,82.239161,40.131,57.141
+rad_cohort_min,KBCT310116R,segmented,HE,CC,siemens_offset,10000,465983824,10.1.0,764,6.31675,63.063,80.073
+rad_cohort_min,KBCT310116R,segmented,LE,CC,siemens_offset,10000,425828119,10.1.0,731,6.31675,63.063,80.073
+rad_dense,KBCT110288R,segmented,HE,CC,siemens_offset,10000,1877107815,10.1.0,731,40.790322,54.054,71.064
+rad_dense,KBCT110288R,segmented,LE,CC,siemens_offset,10000,1862640898,10.1.0,662,40.790322,54.054,71.064
+rad_fat_only,KBCT410079R,adipose_only,HE,CC,siemens_offset,10000,1620445532,10.1.0,738,0.0,52.143,69.153
+rad_fat_only,KBCT410079R,adipose_only,LE,CC,siemens_offset,10000,1133631035,10.1.0,697,0.0,52.143,69.153
+rad_fatty,KBCT410079R,segmented,HE,CC,siemens_offset,10000,410588984,10.1.0,790,7.447233,52.143,69.153
+rad_fatty,KBCT410079R,segmented,LE,CC,siemens_offset,10000,1994233857,10.1.0,676,7.447233,52.143,69.153
+rad_highest,KBCT310033L,segmented,HE,CC,siemens_offset,10000,276732471,10.1.0,757,58.899437,52.962,69.972
+rad_highest,KBCT310033L,segmented,LE,CC,siemens_offset,10000,574172274,10.1.0,689,58.899437,52.962,69.972
+rad_intermediate,KBCT110136R,segmented,HE,CC,siemens_offset,10000,637770016,10.1.0,735,20.041979,52.962,69.972
+rad_intermediate,KBCT110136R,segmented,LE,CC,siemens_offset,10000,1860330365,10.1.0,660,20.041979,52.962,69.972
+rad_uniform,KBCT110136R,uniform_mixture,HE,CC,siemens_offset,10000,528546006,10.1.0,734,20.041979,52.962,69.972
+rad_uniform,KBCT110136R,uniform_mixture,LE,CC,siemens_offset,10000,514734693,10.1.0,678,20.041979,52.962,69.972
